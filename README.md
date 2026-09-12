@@ -11,34 +11,33 @@ Stephen McCarthy is a corporate governance advisor and regulatory research speci
 - **Financial regulatory oversight:** the CFPB, FHFA, and SEC; financial agency governance; and compliance risk analysis.
 - **Separation of powers:** constitutional executive authority and the institutional design of independent agencies.
 
-## Planned repository roadmap
+## Research toolkit
 
-The following repositories are planned. Each concept connects legal research with practical, source-based documentation.
+Three starter projects connect primary-source legal research with practical documentation. Each repository includes its own MIT License and instructions.
 
-| Proposed repository | Purpose | Planned contents |
-| --- | --- | --- |
-| `administrative-law-analytics` | Organize agency-structure and judicial-review research for systematic comparison. | Case citation records, statutory-reference fields, agency-structure comparison tables, and documented research workflows. |
-| `corporate-compliance-templates` | Develop reusable documents for governance and compliance work. | Policy outlines, responsibility matrices, risk registers, control-review checklists, and policy revision logs. |
-| `financial-regulatory-tracker` | Track developments relevant to financial agency authority and oversight. | Agency and topic indexes, dated regulatory updates, primary-source references, status fields, and change summaries. |
+| Repository | Available materials |
+| --- | --- |
+| [Administrative law analytics](https://github.com/mccarthys11145-del/administrative-law-analytics) | A Python validator and comparison report, seven selected case records, official-source links and pinpoints, a sample report, and functional tests. |
+| [Corporate compliance templates](https://github.com/mccarthys11145-del/corporate-compliance-templates) | An editable policy template, board responsibility matrix, risk register, evidence checklist, and review log. |
+| [Financial regulatory tracker](https://github.com/mccarthys11145-del/financial-regulatory-tracker) | A Python validator and review report, five selected developments, source references, workflow fields, a sample report, and functional tests. |
 
-### Legal analytics tools
+### Legal analytics
 
-Planned tools will support structured comparison of statutory provisions, agency governance models, and judicial reasoning. Initial research areas include executive authority, removal protections, jurisdictional boundaries, and administrative procedural integrity.
+Compare agency structure, statutory interpretation, funding, and adjudication through a dated research dataset. The tool validates record structure and generates a source-linked Markdown comparison.
 
 ### Compliance templates
 
-Planned templates will connect a defined policy objective to responsible roles, supporting records, review intervals, and documented follow-up. The initial emphasis is clear governance responsibilities and a traceable record of compliance review.
+Adapt illustrative documents to define scope, responsible roles, supporting records, review intervals, and documented follow-up. The templates contain sample allocations and blank organizational assessments.
 
 ### Regulatory tracking
 
-The proposed tracker will organize financial regulatory developments by agency, date, subject, source, and status. Entries will distinguish primary-source material from research commentary and identify the date of the latest review.
+Organize developments by date, institution, procedural status, primary source, and review question. The local tracker shows missing owners, missing review dates, due reviews, and sources requiring refresh.
 
-## Development sequence
+## Research library and contact
 
-1. Define the research scope, record fields, and source documentation standards.
-2. Assemble sample case records, policy templates, and regulatory entries.
-3. Review citations and documentation for consistency.
-4. Publish initial repository materials with clear version history and scope notes.
+[Read the research library](https://stephen-mccarthy-governance.mccarthys11145.chatgpt.site/) for the whitepaper series on administrative law and financial regulatory governance.
+
+[Professional enquiries](https://stephen-mccarthy-governance.mccarthys11145.chatgpt.site/#contact)
 
 ## Project topics
 
