@@ -37,6 +37,8 @@ Organize developments by date, institution, procedural status, primary source, a
 
 [Read the research library](https://stephen-mccarthy-governance.mccarthys11145.chatgpt.site/) for the whitepaper series on administrative law and financial regulatory governance.
 
+[YouTube channel](https://www.youtube.com/@StephenMcCarthyGovernance)
+
 [Professional enquiries](https://stephen-mccarthy-governance.mccarthys11145.chatgpt.site/#contact)
 
 ## Project topics
